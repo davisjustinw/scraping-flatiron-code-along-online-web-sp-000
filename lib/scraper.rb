@@ -17,6 +17,7 @@ class Scraper
     
   end 
   
+  
   Scraper.new.get_page
   
   def print_courses
